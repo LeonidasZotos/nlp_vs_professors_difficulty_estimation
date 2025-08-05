@@ -1,1 +1,1 @@
-# nlp_vs_professors_difficulty_estimation
+Code for the Article titled "NLP Methods May Actually Be Better Than Professors at Estimating Question Difficulty" which will be presented at ECAI 2025 at the 2nd International Workshop on AI in Society, Education and Educational Research (AISEER).
